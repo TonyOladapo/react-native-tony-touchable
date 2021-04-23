@@ -1,0 +1,36 @@
+{
+  "name": "react-native-tony-touchable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TonyOladapo/react-native-tony-touchable.git"
+  },
+  "keywords": [
+    "touchable"
+  ],
+  "author": "Anthony Obaze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyOladapo/react-native-tony-touchable/issues"
+  },
+  "homepage": "https://github.com/TonyOladapo/react-native-tony-touchable#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "@freakycoder/react-native-bounceable": "^0.2.4",
+    "tslib": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.3",
+    "@types/react-native": "^0.64.4",
+    "react-native-unimodules": "^0.13.3",
+    "typescript": "^4.2.4"
+  }
+}
